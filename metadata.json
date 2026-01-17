@@ -1,0 +1,7 @@
+{
+  "name": "Shadhin Bangla - Futuristic Travel & Consultancy",
+  "description": "A high-end, futuristic travel agency and consultancy web application featuring AI-powered destination recommendations and sleek UI/UX design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
